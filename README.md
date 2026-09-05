@@ -5,6 +5,6 @@ Yorbelys Ordonez
 ## Curso
 Ethical Hacking- Hacker Women Council
 ## Actividades
-- [Actividad 01 - Pentest Aurora Market](Actividad%201%20Hacker%20Women%20-%20Ethical%20Hacking.pdf)
+- [Actividad 01 - Pentest Aurora Market](Actividad%201%20Hacker%20Women%20-%20Ethical%20Hacking%20.pdf)
 - Actividad 02
 - Actividad 03
